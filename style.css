@@ -1,0 +1,17 @@
+html{
+    background-color: black;
+}
+img{
+    height: 300px;
+    width: 450;
+    border: 10px dashed white;
+}
+div{
+    color: white;
+    text-align: center;
+    margin-left: 50;
+    margin-top: 50px;
+}
+h1{
+    text-transform: uppercase;
+}
